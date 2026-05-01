@@ -1,0 +1,18 @@
+# STS / Eclipse
+.metadata/
+*.log
+
+# Build files
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ / VSCode (optional)
+.idea/
+.vscode/
+
+# Maven wrapper logs
+.mvn/wrapper/maven-wrapper.jar
